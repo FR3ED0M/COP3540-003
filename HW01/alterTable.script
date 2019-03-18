@@ -1,0 +1,2 @@
+ALTER TABLE LukasDogs 
+ADD Email varchar(20);

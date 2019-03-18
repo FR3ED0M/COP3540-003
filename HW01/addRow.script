@@ -1,0 +1,4 @@
+INSERT INTO LukasDogs (dogID, dogName, dogSex, ownerName, favFood, dogAge, lastBookRead)
+VALUES ('0', 'Pelu', 'M', 'Washington', 'Nutro Max', '4', 'Mighty Max');
+INSERT INTO LukasDogs (dogID, dogName, dogSex, ownerName, favFood, dogAge, lastBookRead)
+VALUES ('1', 'Flaco', 'M', 'Adriana', 'Nutro Max Jr', '8', 'Charlie Bone');

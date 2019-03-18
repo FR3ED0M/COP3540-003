@@ -1,0 +1,9 @@
+CREATE TABLE LukasDogs (
+    dogID int,
+    dogName varchar(20),
+    dogSex char(1),
+    ownerName varchar(20),
+    favFood varchar(20),
+    dogAge int,
+    lastBookRead varchar(20)    
+);

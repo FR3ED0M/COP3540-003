@@ -1,0 +1,3 @@
+UPDATE LukasDogs
+SET	dogName='Lukas'
+WHERE dogID = 0;
