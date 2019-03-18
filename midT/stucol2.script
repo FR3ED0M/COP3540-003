@@ -1,0 +1,3 @@
+CREATE VIEW myStuColorView
+AS SELECT *
+FROM (Students JOIN Colors ON Students.StuFavColor = Colors.ColorCode);

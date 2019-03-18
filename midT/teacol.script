@@ -1,0 +1,3 @@
+SELECT TEACHNAME, TEACHFAVCOLOR
+FROM Teachers
+WHERE Teachers.Specialty = 'Math';

@@ -1,0 +1,13 @@
+Prompt   ;
+PROMPT Hello!;
+
+SELECT TEACHNAME, COUNT(SPECIALTY)
+FROM (Students JOIN Teachers ON Students.StuTeachID = Teachers.TeachID)
+GROUP BY TEACHNAME
+HAVING COUNT(SPECIALTY)>1
+ORDER BY COUNT(SPECIALTY) DESC;
+
+Prompt Goodbye!;
+Prompt    ;
+
+-- I really wanted this to print out the specialty next to the count

@@ -1,0 +1,2 @@
+SELECT *
+FROM (Students RIGHT JOIN Teachers ON Students.StuTeachID = Teachers.TeachID);
