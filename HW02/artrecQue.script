@@ -1,0 +1,3 @@
+SELECT ArtName, RecName, RecPopu, ArtPopu, ArtistID, RecArtID
+FROM Artists, Recordings
+ORDER BY ArtName ASC;

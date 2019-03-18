@@ -1,0 +1,2 @@
+select * from YANGK.salaries
+fetch first 10 rows only;

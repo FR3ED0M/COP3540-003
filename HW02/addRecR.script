@@ -1,0 +1,11 @@
+INSERT INTO Recordings (RecordingID, RecName, RecArtID, recPopu)
+VALUES ('1', 'You Hound Dog, You', '1', '77');
+
+INSERT INTO Recordings (RecordingID, RecName, RecArtID, RecPopu)
+VALUES ('33', 'You Named Me', '99', '30');
+
+INSERT INTO Recordings (RecordingID, RecName, RecArtID, RecPopu)
+VALUES ('22', 'Be my Valentine', '1', '82.3');
+
+INSERT INTO Recordings (RecordingID, RecName, RecArtID, RecPopu)
+VALUES ('13', 'I am so Kool', '2', '39');

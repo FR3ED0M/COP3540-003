@@ -1,0 +1,3 @@
+SELECT ArtName, RecName, ArtistID, RecArtID
+FROM Artists
+LEFT JOIN Recordings on Artists.ArtistID=Recordings.RecArtID;

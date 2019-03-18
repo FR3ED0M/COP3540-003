@@ -1,0 +1,7 @@
+CREATE TABLE Movies (
+    GoodID int,
+    Title varchar(50),
+    yearMade int,
+    famousQuote varchar(80),
+    PRIMARY KEY (GoodID)
+);

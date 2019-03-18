@@ -1,0 +1,6 @@
+CREATE TABLE Recordings (
+    RecordingID int,
+    RecName varchar(20),
+    RecArtID int,
+    RecPopu int 
+);

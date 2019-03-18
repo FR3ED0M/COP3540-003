@@ -1,0 +1,12 @@
+INSERT INTO Artists (ArtistID, ArtName, ArtPopu)
+VALUES ('1', 'Elvis Ham', '88');
+
+INSERT INTO Artists (ArtistID, ArtName, ArtPopu)
+VALUES ('2',  'Kool Kardash', '62');
+
+INSERT INTO Artists (ArtistID, ArtName, ArtPopu)
+VALUES ('99',  'Rox de Sox', '42');
+
+INSERT INTO Artists (ArtistID, ArtName, ArtPopu)
+VALUES ('200',  'Joe Nothingburger', '0');
+

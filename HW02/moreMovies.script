@@ -1,0 +1,5 @@
+INSERT INTO Movies (GoodID, Title, yearMade, famousQuote)
+VALUES ('01', 'Dr. No', '1963', 'Bond. James Bond');
+
+INSERT INTO Movies (GoodID, Title, yearMade, famousQuote)
+VALUES ('13', 'E.T.', '1982', 'ET, Phone Home');

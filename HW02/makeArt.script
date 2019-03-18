@@ -1,0 +1,5 @@
+CREATE TABLE Artists (
+    ArtistID int,
+    ArtName varchar(20),
+    ArtPopu int   
+);

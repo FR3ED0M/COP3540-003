@@ -1,0 +1,5 @@
+SELECT ArtName as "Artist Name", RecName as "Name of Recording", ArtistID as "Artist ID on Recording", 
+ArtPopu as "Popularity of Artist", ArtistID as "Artist ID in Artist Table"
+FROM Artists
+JOIN Recordings on Artists.ArtistID = Recordings.RecArtID
+ORDER BY ArtName;
